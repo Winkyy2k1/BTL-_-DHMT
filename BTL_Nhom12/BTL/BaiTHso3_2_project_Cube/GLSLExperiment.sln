@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLSLExperiment", "GLSLExperiment\GLSLExperiment.vcxproj", "{1654A1CC-FA42-415F-8E83-6905FA03B52A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.CD_ROM|Win32.Build.0 = Release|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.Debug|Win32.Build.0 = Debug|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.DVD-5|Win32.Build.0 = Debug|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.Release|Win32.ActiveCfg = Release|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.Release|Win32.Build.0 = Release|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{1654A1CC-FA42-415F-8E83-6905FA03B52A}.SingleImage|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GLSLExperiment">
+</Property><Property Name="Solution File" Value="C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\GLSLExperiment.sln">
+</Property><Property Name="User Options File" Value="C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\GLSLExperiment.suo">
+</Property><Property Name="Date" Value="Friday, September 09, 2011">
+</Property><Property Name="Time" Value="0:06 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GLSLExperiment.sln" Description="File successfully backed up as C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\GLSLExperiment.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="GLSLExperiment.suo" Description="File successfully backed up as C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\GLSLExperiment.suo.old">
+</Event><Event ErrorLevel="0" Project="Galaxy" Source="Galaxy\Galaxy.vcproj" Description="Converting project file 'C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\Galaxy\Galaxy.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Galaxy" Source="Galaxy\Galaxy.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Galaxy" Source="Galaxy\Galaxy.vcproj" Description="Done converting to new project file 'C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\Galaxy\Galaxy.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Galaxy" Source="Galaxy\Galaxy.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GLSLExperiment" Source="GLSLExperiment\GLSLExperiment.vcproj" Description="Converting project file 'C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\GLSLExperiment\GLSLExperiment.vcproj'.">
+</Event><Event ErrorLevel="1" Project="GLSLExperiment" Source="GLSLExperiment\GLSLExperiment.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="GLSLExperiment" Source="GLSLExperiment\GLSLExperiment.vcproj" Description="Done converting to new project file 'C:\Users\willd\Documents\Visual Studio 2008\Projects\GLSLExperiment\GLSLExperiment\GLSLExperiment.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="GLSLExperiment" Source="GLSLExperiment\GLSLExperiment.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GLSLExperiment.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GLSLExperiment.sln" Description="Converted">
+</Event></UpgradeLog>
